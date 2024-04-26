@@ -3,7 +3,7 @@
 
 -L'utilisateur peut utiliser son visage pour déverrouiller la porte
 
--facile à utiliser (attention aux chemin {l'emplacement des fichiers) ils doivent  etre correcte si vous voulez utilisé mon projet}
+-Facile à utiliser { faites attention au chemin 'emplacement du fichier) ils doivent être corrects si vous souhaitez utiliser mon projet }
 
 -Le projet a été réalisé en langage Python et en langage C dans Arduino
 
