@@ -22,7 +22,9 @@
 4.numpy
 
 <h1>explication de code </h1>
+
       ***   collecting data face ***
+      
 --   ce code capture des echantillons de visage à partir de la video capturée par la camèra 
 --   il détecte les visage à l'aide d'un classificateur en cascade Haar
 --   il enregistre chaque échantillon de visage dans un répertoir spécifie avec un nom de fichier unique (image pour mon cas ) 
