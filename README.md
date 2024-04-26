@@ -49,4 +49,8 @@
 --     ...
 
       ############  le principe de fonctionnement ####################
+
+      -- le code récupère les images qu'on est déjà collecté ,ces images utilisé pour entrainer le modèle  afin qu'il va reconnut les visages. comme jai déjà dis  apres la récuperation des images <b>LBPH</b> passe sur ces images pour apprendre les caracteristique de chaque visage 
+      -- apres l'entrainement (modèle entainé) le code commence à capturer des images de la webcame en temp réel (Photos des utilisateurs ). pour chaque image capturée le classificateur détecte les visage ,ces visage sont ensuite envoyer au modèle de reconnaissence LBPH pour la classification 
+      -- si un visage est reconnu avec un confiance > 83% une communication avec l'arduino mis en oeuvre via la communication serie (l'arduino recoit "a" ==> servo -->90 ou 180 ça dépend de vous )
   
