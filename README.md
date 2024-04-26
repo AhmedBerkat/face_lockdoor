@@ -5,7 +5,7 @@
 
 -facile à utiliser
 
--Le code a été réalisé en langage Python et en langage C dans Arduino
+-Le projet a été réalisé en langage Python et en langage C dans Arduino
 
 -Arduino a été utilisé pour montrer la démo de la porte.(montrer l'ouverture de le porte al'aide d'un servo motor)
 
